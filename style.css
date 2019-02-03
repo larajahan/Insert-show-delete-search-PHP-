@@ -1,0 +1,31 @@
+ body{
+				margin:0 auto;
+				background: #ddd;
+								}
+				.input{
+					margin: 5% auto auto 40%;
+				}
+
+
+ .table{
+
+         	margin:5% auto auto 35%;
+         }
+
+			th{
+				width: 180px;
+				height:35px;
+				text-align: center;
+				border:1px solid gray;
+				color:#fff;
+				background-color:#000;
+			}
+
+			td{
+               width: 180px;
+				height:35px;
+				text-align: center;
+				border:1px solid gray;
+				
+
+			}
